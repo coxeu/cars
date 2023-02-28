@@ -1,0 +1,65 @@
+---
+title: "lit review part"
+format: html
+editor: visual
+---
+
+## Prelim Proposal/Lit review section
+
+This research proposal aims to design and support AR collaborative learning experiences for middle-school students that engages them in the crosscutting concept of scale across different science domains. This project will employ a design-based research approach (dbr cite), which includes an iterative cycle of design, development, testing and refinement with input from instructors and students. Researchers and instructors will also iterate on supportive materials for teachers to best foster science discussion in the classroom using our learning technology (AR science activity).
+
+As a secondary design principle, we will iterate on the design of this application using the Learning through Embodied Activity Framework (LEAF)\[\@danishLearningEmbodiedActivity2020\] to guide our science learning activity design. LEAF framework provides researchers educators tools for designing mixed reality learning experience, by looking at the roles of the student, teacher and collective groups within the activity itself. These better grounds an embodied activity in the requisite learning goals for instructors and learners, while also highlighting different dimensions of an embodied activity (eg., individual and collective experiences for students and instructors)
+
+## Broad Research Questions:
+
+How can an AR learning environment support students in progressing in their understanding of objects and scientific phenomena at the extreme ends of scales?
+
+-   In what ways do limited AR immersed environments support an embodied learning approach to instruction?\
+-   What challenges teacher might face when implementing embodied AR activities in a science classroom?
+
+\### notes
+
+\*\*informal after school technologies\-- can talk with robb\-\--
+
+\*\*after school is an different entitiy\
+\*\*teachers dont know what students are doing
+
+Compensating young learners -\> vs the ones that are stuck.
+
+pre/post test \--\> interviews
+
+information from that -\> revisions (earlier prototype schedules)\]\
+wont have much information about classroom/facilitation
+
+what are students learning/engaging/small groups (pairs vs groups of 3)\-\-- more student focused(more clarity)
+
+### example
+
+consent form/ pretest(25 minutes)\
+45-minute activity ()\
+Debrief (focus group interviews)\
+post test
+
+they go home (review video tape)\
+How are we going to video tape groups?
+
+## Target Group
+
+The target group for this project is middle school students and instructors i
+
+## Project Plan and Timeline
+
+This research proposal will develop a set of AR science activities around the concept of scale across different domains of science (Astronomy and Biology) that will be helpful to middle school learners connect this crosscutting concept to different concepts and situations. The foundation for these AR activities will be around two Next Generation Science Standards (NGSS) performance expectations and the LEAF framework.
+
+NGSS Scale performance Expectations:
+
+● \[MS-PS1-1\](https://www.nextgenscience.org/pe/ms-ps1-1-matter-and-its-interactions): Develop models to describe the atomic composition of simple molecules and extended structures.
+
+● \[MS-ESS1-3\](https://www.nextgenscience.org/pe/ms-ess1-3-earths-place-universe): Analyze and interpret data to determine scale properties of objects in the solar system.
+
+Aligning to the above NGSS performance expectations will increase the likelihood that teachers will eventually be able to easily integrate the activities into their normal curricular materials and plans.
+
+### Notes
+
+NGSS is arbitary\-- use practices/DCI/CCC\
+already constraints so you arent limited by nGSS
