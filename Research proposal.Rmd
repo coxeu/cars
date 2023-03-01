@@ -3,6 +3,7 @@ title: "AR Scale proposal"
 format: html
 number-sections: true
 editor: visual
+bibliography: references.bib
 ---
 
 ## Methods
@@ -125,3 +126,7 @@ Students and instructors will be recruited from a local middle school in the Mid
 BVI? what will work for most students?
 
 can be an additional thing? What types of things might be included to be more inclusive?
+
+    read_ 
+
+[@yoon2014]
