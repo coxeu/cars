@@ -1,0 +1,98 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+Prelim Proposal/Lit review section
+
+This research proposal aims to design and support AR collaborative learning experiences for middle-school students that engages them in the crosscutting concept of scale across different science domains. This project will employ a design-based research approach (dbr cite), which includes an iterative cycle of design, development, testing and refinement with input from instructors and students. Researchers and instructors will also iterate on supportive materials for teachers to best foster science discussion in the classroom using our learning technology (AR science activity).
+
+As a secondary design principle, we will iterate on the design of this application using the Learning through Embodied Activity Framework (LEAF)[@danishLearningEmbodiedActivity2020] to guide our science learning activity design. LEAF framework provides researchers educators tools for designing mixed reality learning experience, by looking at the roles of the student, teacher and collective groups within the activity itself. These better grounds an embodied activity in the requisite learning goals for instructors and learners, while also highlighting different dimensions of an embodied activity (eg., individual and collective experiences for students and instructors)
+
+Broad Research Questions:
+
+How can an AR learning environment support students in progressing in their understanding of objects and scientific phenomena at the extreme ends of scales?
+
+In what ways do limited AR immersed environments support an embodied learning approach to instruction?
+
+What challenges teacher might face when implementing embodied AR activities in a science classroom?
+
+### notes
+
+**informal after school technologies-- can talk with robb---
+
+**after school is an different entitiy**teachers dont know what students are doing
+
+Compensating young learners -> vs the ones that are stuck.
+
+pre/post test --> interviews
+
+information from that -> revisions (earlier prototype schedules)]wont have much information about classroom/facilitation
+
+what are students learning/engaging/small groups (pairs vs groups of 3)--- more student focused(more clarity)
+
+example
+
+consent form/ pretest(25 minutes)45-minute activity ()Debrief (focus group interviews)post test
+
+they go home (review video tape)How are we going to video tape groups?
+
+Target Group
+
+The target group for this project is middle school students and instructors i
+
+Project Plan and Timeline
+
+This research proposal will develop a set of AR science activities around the concept of scale across different domains of science (Astronomy and Biology) that will be helpful to middle school learners connect this crosscutting concept to different concepts and situations. The foundation for these AR activities will be around two Next Generation Science Standards (NGSS) performance expectations and the LEAF framework.
+
+NGSS Scale performance Expectations:
+
+● [MS-PS1-1](https://www.nextgenscience.org/pe/ms-ps1-1-matter-and-its-interactions): Develop models to describe the atomic composition of simple molecules and extended structures.
+
+● [MS-ESS1-3](https://www.nextgenscience.org/pe/ms-ess1-3-earths-place-universe): Analyze and interpret data to determine scale properties of objects in the solar system.
+
+Aligning to the above NGSS performance expectations will increase the likelihood that teachers will eventually be able to easily integrate the activities into their normal curricular materials and plans.
+
+Notes
+
+NGSS is arbitary-- use practices/DCI/CCCalready constraints so you arent limited by nGSS
+
+
+What are the purposes of learning that you are trying to teach at each content learning— is this helpful? 
+
+For students to learn scale more clearly— how does it connect 
+
+
+
+Examples of these technologies include a physics com- puter simulation that tracks objects students place around their classroom (Enyedy et al., 2012) and an electricity exhibit in a sc ence museum that uses projection to show the path of a current overlaid upon objects and visitors’ bodies (Yoon et al., 2012). While these technology interventions have shown great promise for generating science learning, demonstrations of their utility for promoting the transfer of learning are still quite limited. 
+
+## Things to add 
+
+## Theories informing research into AR for learning
+Relevant learning science theories that will inform my research in the intersection of Augmented Reality (AR) & learning sciences will be embodied learning. Learning embodiment is important in leveraging existing AR affordances previously discussed such as allowing a variety of perspectives of a physical object and superimposing digital environments from physical spaces. Instructors are often tasked with teaching difficult concepts that can't be easily integrated into the classroom using traditional methods. Education researchers have been looking at difficulties teachers face when implementing Next Generation Science Standards (NGSS) and issues teachers face when implementing crosscutting concepts (CCC) such as scale, proportion, and quantity (Ball et al., 2008; NGSS Lead States, 2013).
+
+CCCs are important for students to make connections across domains, and situations while connecting the content to prior experiences which provides deeper engagement with learning material. Previous literature has looked at challenges instructors face with integrating coursework aligned with the curriculum and the difficulties students face in understanding science concepts with traditional materials (Harris et al., 2015; Hogan et al., 2015). Ongoing educational reform has talked about the inclusion of CCCs for providing students with a deeper understanding of how and why science phenomena work as well as making connections across different phenomena and science ideas through equitable sense-making (Fick et al., 2021; Lee et al., 2014).
+
+Embodied cognition in literature is defined as how the body and mind work together to create mental/human experiences.  Researchers have been recently interested in utilizing students’ embodied actions when teaching difficult STEM concepts (Lindgren et al., 2016; Nathan & Wallkiungton, 2017). Barsalou (1999) describes how learners’ physical actions being utilized(as well as the physical actions happening around them) help shape our learning experiences. While embodied learning can be applied across all types of learning (Barsalou 2003) not every application can properly utilize embodied learning. For example, students trying to understand particle motion can use areas of their brains to understand this concept instead of using a physical embodiment of particles in motion. There are also different types of embodiment, such as body form or body movement, gestures, and embodied simulations. An example of this type of embodiment is Lindgren et al (2016), where researchers utilized  XR to facilitate embodied learning in digital environments. In this embodied simulation students were using physical movement to learn accurate representations of gravitational forces that have an effect on other objects(like asteroids) using laser scanning technology.  
+
+These types of designs are examples researchers can use to explicitly ask students to use physical movements that are tied conceptually to a relevant idea/topic and make connections to new domains. Applying embodied learning will help guide my research,  leveraging existing affordances of augmented reality, to best demonstrate the different “embodied simulations” actions or movements that students make during the exploration of an activity. Where embodied learning is important here, is the connection between how students interpret and the role the body movement plays during learning, especially when students are learning about a specific phenomenon such as scale that is difficult to learn. There is already precedent for utilizing simulations in science instruction, where Rotten et al (2012) found support for interactive simulations in science instruction when trying to promote learner discovery of science concepts. Researchers (Danish et al 2017) have created embodied learning frameworks that leverage socio-cultural learning theories to help support embodied activities (and tools) in different formal and informal learning environments.  
+
+Scale is one example of a cross-cutting concept that educators and learners can apply embodied learning to and something that will guide my research area of science learning measurement with AR technology, utilizing the different types of embodiment such as gestures & embodied simulations. Current literature on scale understanding is focusing on VR simulations to help students navigate inaccurate understandings about size and scale. In science education, scale is important across domains such as astronomy and chemistry, where it is important to understand the relative sizes and distances of observable and non-observable artifacts at the extremes of scale. 
+
+While accurate measurement when quantifying known phenomena is highly important in the sciences, students have issues understanding scale (Jones et al., 2017)across different scientific domains. For my research, I am focused on students’ understanding of the extremes of scale. Jones et al (2017) highlighted that students’ ability to conceive of scale is limited by their age, education, and maturity(difficulties with objects beyond human scale).
+
+When the context of scale is applied to the size of objects, young learners struggle to comprehend objects beyond the human scale (their own body) but can improve as they get older.  For objects larger than human scale, young learners’ conceptual ideas of objects “larger than them” can be the size of a school bus or minivan (Jones et al., 2017). As students get older (ie., high school students), their conceptual benchmark of larger units grows to larger objects like shopping malls or a football field (Ibid.) In the other direction, young learners have a very broad understanding of smaller objects —- an ant or a fly might be the smallest thing they can conceptualize; older students can conceptualize objects at the microscopic level like blood cells or complex molecules (Tretter et al., 2006). For students to conceptualize scale they need a deeper understanding of the relative sizes of objects and entities at the extremes (bigger or smaller) which can be leveraged using embodied learning activities within an AR simulation. 
+
+An important aspect of connecting embodied learning AR simulations is related to how students perceive scale through the use of conceptual tools and objects students will be using and how they move and interact with physical objects in a digital space. As discussed previously, researchers have utilized embodied learning simulations to look at students’ conceptual understanding of crosscutting concepts (CCC) like scale, rates of change, and complex systems like bee/plant pollination cycles which are hard to simulate in a real-world situation and difficult for young learners to understand (Lindgren et al., 2016; Danish et al., 2017). 
+
+Where embodiment can help with issues rating to scale is the growing conceptual model students have with objects compared to ones they experience in their everyday life. An example of this in practice is having a virtual environment where students can compare relative and absolute sizes of objects in their environment while making body comparisons and body gestures to increase their perception of human scale to extreme objects in scale (small to large). The literature tells us that as children gain more experience with comparing objects or entities their ideas of relative object sizes become less confusing (Jones et al., 2007).  We can see this in research and media (Powers of Ten) where students can learn about objects in space at the extremes of scale, but there is little research on an interactive or AR environment where students can compare back and forth at scale extremes and scale examples. Jones et al. (2007) highlighted the importance of scale in middle and high school students through the film “Powers of Ten”. In this study, they found that even short-term interventions influenced students understanding of scale. It also highlighted that students’ knowledge of large and small objects was limited to their direct experiences. I think applying embodiment and AR technology to the difficulties students have with visualizing things at scale is important as students try to build domain knowledge on science topics that require understanding concepts at the extremes of scale (astronomy or geological time) by making comparisons at relative and absolute scale (where relative is easier to conceptualize for k-12). 
+
+ An example of applying embodied learning to augmented reality technology in a classroom would be to design and implement relevant tools and objects that allow the students to interact with technology in a way that involves the whole body as they move in an environment. In my future research, embodied learning is important when introducing an AR environment to help students try to understand a complex phenomenon, where you want a physical experience to influence how students explore and learn science concepts. In applying embodied learning to this area of research, you provide learners with “tools” to physically manipulate and make sense of objects collaboratively in a space. The artifacts that students are using can be manipulated in different ways, including size and scale, allowing different viewpoints by walking around a virtual artifact and comparing it with real objects. 
+
+ Expanding on this, there is an aspect of design and the process of creating digital environments that include physical activities and gestures that need to be aligned with targeted concepts for that learning module. While AR provides a variety of opportunities for education research, my primary focus is the creation of immersive environments through physical movement and gestures across spatial environments to make comparisons at extremes of scale. Danish et al. created the   Learning in Embodied Activity Framework (LEAF) grounded in embodied learning and sociocultural learning theories, providing educators with a framework for designing embodied activities. With this framework, researchers can look at the key roles of the student, teacher, and collective groups in shaping their embodied activities that can be better grounded in that learning goal/activity across. The goal of the LEAF framework was to highlight different dimensions of embodied activity (individual and collective experiences). A secondary goal is to consider the different mediators in an activity and the different roles that students would have in the science subject (physical movement). LEAF framework will be an important tool in my future research on creating embodied learning activities that play collective and individual embodiment (Physical movement within an activity). 
+
+ The trajectory of literature on integrating augmented reality in classrooms will revolve around providing the appropriate support and materials for teachers to best implement AR as an effective learning tool to aid learning. There is a growing body of research on creating collaborative learning opportunities in AR/VR environments and the multitude of mobile devices that can help move current activities out of a single-user experience, which is commonly implemented in classrooms today. While AR doesn’t inherently have to be collaborative, this can open up research on cross-cutting concepts such as scale or different scientific phenomena. This allows for students to have a shared physical representation (Such as mapping out a star constellation collectively) which can be tough for students to reconcile in a normal classroom setting.
+
+
+
+--- shared representational space when using XR and IPADS 
+

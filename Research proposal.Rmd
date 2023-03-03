@@ -6,54 +6,13 @@ editor: visual
 bibliography: references.bib
 ---
 
-## Methods
-
 ## Research Design/Plan
 
 This research proposal aims to design and support AR collaborative learning experiences for middle-school students that engages them in the crosscutting concept of scale across different science domains. This project will employ a design-based research approach (dbr cite), which includes an iterative cycle of design, development, testing and refinement with input from instructors and students. Researchers and instructors will also iterate on supportive materials for teachers to best foster science discussion in the classroom using our learning technology (AR science activity).
 
-As a secondary design principle, we will iterate on the design of this application using the Learning through Embodied Activity Framework (LEAF)\[\@danishLearningEmbodiedActivity2020\] to guide our science learning activity design. LEAF framework provides researchers educators tools for designing mixed reality learning experience, by looking at the roles of the student, teacher and collective groups within the activity itself. These better grounds an embodied activity in the requisite learning goals for instructors and learners, while also highlighting different dimensions of an embodied activity (eg., individual and collective experiences for students and instructors)
+As a secondary design principle, we will iterate on the design of this application using the Learning through Embodied Activity Framework (LEAF)\[\@danishLearningEmbodiedActivity2020\] to guide our science learning activity design. LEAF framework provides researchers educators tools for designing mixed reality learning experience, by looking at the roles of the student, teacher and collective groups within the activity itself. This framework will help us create activities that better grounds an embodied activity in the requisite learning goals for instructors and learners, while also highlighting different dimensions of an embodied activity (eg., individual and collective experiences for students and instructors).
 
-## Broad Research Questions:
-
-How can an AR learning environment support students in progressing in their understanding of objects and scientific phenomena at the extreme ends of scales?
-
--   In what ways do limited AR immersed environments support an embodied learning approach to instruction?\
--   What challenges teacher might face when implementing embodied AR activities in a science classroom?
-
-\### notes
-
-\*\*informal after school technologies\-- can talk with robb\-\--
-
-\*\*after school is an different entitiy\
-\*\*teachers dont know what students are doing
-
-Compensating young learners -\> vs the ones that are stuck.
-
-pre/post test \--\> interviews
-
-information from that -\> revisions (earlier prototype schedules)\]\
-wont have much information about classroom/facilitation
-
-what are students learning/engaging/small groups (pairs vs groups of 3)\-\-- more student focused(more clarity)
-
-### example
-
-consent form/ pretest(25 minutes)\
-45-minute activity ()\
-Debrief (focus group interviews)\
-post test
-
-they go home (review video tape)\
-How are we going to video tape groups?
-
-## Target Group
-
-The target group for this project is middle school students and instructors i
-
-## Project Plan and Timeline
-
-This research proposal will develop a set of AR science activities around the concept of scale across different domains of science (Astronomy and Biology) that will be helpful to middle school learners connect this crosscutting concept to different concepts and situations. The foundation for these AR activities will be around two Next Generation Science Standards (NGSS) performance expectations and the LEAF framework.
+<!--# This could use some work -->Aligning to the below NGSS performance expectations will increase the likelihood that teachers will eventually be able to easily integrate the activities into their normal curricular materials and plans.
 
 NGSS Scale performance Expectations:
 
@@ -61,7 +20,60 @@ NGSS Scale performance Expectations:
 
 ● \[MS-ESS1-3\](https://www.nextgenscience.org/pe/ms-ess1-3-earths-place-universe): Analyze and interpret data to determine scale properties of objects in the solar system.
 
-Aligning to the above NGSS performance expectations will increase the likelihood that teachers will eventually be able to easily integrate the activities into their normal curricular materials and plans.
+<!--# could use some visuals for that  -->
+
+## Broad Research Questions:
+
+How can an AR learning environment support students in progressing in their understanding of objects and scientific phenomena at the extreme ends of scales?
+
+-   In what ways do limited AR immersed environments support an embodied learning approach to instruction?\
+
+-   What challenges teacher might face when implementing embodied AR activities in a science classroom?
+
+-   specific design details? <!--# two main research questions and 1-2 sub questions fo these  -->
+
+-   design featuresd?
+
+    Features in the app? specific things we want facilators to do--- \> becuase are allows for layered information can distribute this two students diffferently -- contextualized in small group collabortive activity- this has to be in the RQ
+
+the gains from this tech has to be situated within a particular context/student/
+
+how does ar support distributed cognition/designing ways for in which to distrbuted cognition (each students have different scale aspects of the activity)
+
+maybe the literature- these type of things are more beneficial for students; the AR is allow for differetn type of distribute of knowledge than before( can look into this) what can AR do that other things can do) can support a stronger argument --- limited immersive
+
+## Target Group
+
+The target group for this project is middle school students and instructors in rural middle school classrooms in mid west illinois.
+
+## Project Plan and Timeline
+
+This research proposal will develop a set of AR science activities around the concept of scale across different domains of science (Astronomy and Biology) that will be helpful to middle school learners connect this crosscutting concept to different concepts and situations. The foundation for these AR activities will be around two Next Generation Science Standards (NGSS) performance expectations and the LEAF framework. Additionally this project will employ a design-based research approach [@fishmanDesignbasedImplementationResearch2018] which includes several iterative cycles of design, development, refinement and testing of activities and supportive materials for instructors
+
+### Timeline
+
+#### Spring 2023  - Design
+
+Begin the development of two AR-based collaborative science activities which will take place during summer 2023 with middle-school learners. We will begin early iterations of lessons plans for instructors on how to integrate the activity into their curriculum.
+
+In conjunction with this we will begin development of our AR app with, with the two aforementioned activities(will be aligned with current middle school curricula). This AR application will be developed using the iOS ARKit3 and iPad Pros. Additionally, this project will employ
+
+#### Summer 2023- Create
+
+#### Fall 2023- Iterate & revisions & testing again
+
+#### Spring 2024 - Writing thisup 
+
+## Methods
+
+### Procedure
+
+In these activities students will be learning about scale in a variety of different contexts around the concept of size and scale (possibly maps and models) to help conceptualize relationships between objkects and phenomena in a naturalistic setting. They will be learning about the relative differences in sizes of bjects relating to planets & stars, and the size of atoms and molecules.
+
+These activities will be two collaborative sessions spanning 30 minutes each in an after school lab sessions at CRC(our lab). In this activity students will collaboratively create scale models and be introduced to science simulations.
+
+Scale models:\
+Science Simulations:
 
 ###Data Collection
 
@@ -72,15 +84,19 @@ We will transcode video recordings alongside the field notes and structured inte
 
 To better understand the affordances of AR on science learning, we will conduct semi-structured interviews with all students to probe what aspect of the augmented learning activity helped them grasp the concept of scale. We pose a few questions:
 
-#### Field Notes
+### Field Notes
 
 Within our AR application, students will have access to a virtual notebook to make collaborative observations and inferences about different artifacts in their virtual environment. Students will be able to project these annotations and objects on a shared physical space, where students and instructors can make public comments and additional observations.
 
-#### Lesson plans
+### Lesson plans
 
 We will be creating lesson plans...
 
 ### Iterative Design Feedback
+
+## Design Guidelines
+
+### Design for a collective AR activity of a collective phenomena  + DBR 
 
 at least three sessions?\
 \## DBR
@@ -93,19 +109,11 @@ Whats going to happen with covid?
 Labels/Designs etc; annotations\
 Pre/post test
 
-## Analysis
+### Analysis
 
 Researchers will be analyzing field notes, semi structured\
-interviews, virtual notebooks, and video data (within IRB appointed gridlines on recording).\
+interviews, virtual notebooks, and video data (within IRB appointed guidlines on recording).\
 Looking at student learning, the analysis will consist of qualitative coding of observations of student interactions during class as well as input from the teacher interviews. We will code the classroom data for evidence of student learning of the target science core ideas, practices, and crosscutting concepts. We will also code the data for information about how students interacted with the AR application itself and challenges the teachers might have had with managing this newer technology.
-
-## Procedure
-
-two science activities? How long?\
-What are they doing? What are the students/teachers doing?\
-Teacher more of a facilitator?
-
-after school-
 
 ### Hypothesis
 
@@ -115,16 +123,26 @@ A few of the learning hypotheses we are looking at in this research proposal are
 
 Students will be able to (better?)? developmental models at the extremes of scale across the topics of simple molecules, extended structures, and understand scale properties of objects in the solar system.
 
-## Dissemination plan
+### Dissemination plan
 
 ##IRB \### Recruitment starategy
 
 Students and instructors will be recruited from a local middle school in the Midwest, with a total of 40 students ranging from grade 5-8th. We will be recruiting up to four instructors to help in lesson plan development and AR activity implementation. Instructors will be compensated 100 dollars each.
 
-#### Excusion criteria --\> something that needs to be done
+## IRB
+
+### Excusion criteria --\> something that needs to be done
 
 BVI? what will work for most students?
 
 can be an additional thing? What types of things might be included to be more inclusive?
 
-    read_ 
+what are students learning/engaging/small groups (pairs vs groups of 3)\-\-- more student focused(more clarity)
+
+meeting tuesday at 10AM
+
+todo: combine lit review + proposal
+
+send to cynthia friday morning/afternoon
+
+send jooyung lesson plan
