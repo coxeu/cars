@@ -2,23 +2,22 @@
 title: "lit review section"
 format: html
 editor: visual
+bibliography: references.bib
 ---
 
 ## Literature
 
 ### AR
 
-The next generation of advanced technologies for learning include many different kinds of virtual reality (VR) and augmented reality (AR) and mixed reality (MR) applications. These related technologies have different affordances for educational purposes, but at their core they all allow for increased immersion into novel topics and concepts and new ways for students to interact with three-dimensional objects and places. Additonally, AR has shown the potential to enable individuals construct new understanding by laying digital displays over real-world environments[@yoonHowAugmentedReality2020]. By doing that , these AR experiences can help users inquire and explore aspects of a virtual world in more concrete ways that might not be possible in a naturalistic setting [@yoonHowAugmentedReality2020]. AR technologies are only recently starting to become more mainstream as technology becomes more affordable and more research is done into the affordances of AR within education. These affordances may include: scientific spatial ability(manipulating objects and content in a 3D space); engaging in scientific inquiry through the use of observations, questions, group collaboration, investigations and interpreting data; increased concpetual understanding of abstract concepts and invisible phenomena. <!--# need to cite dunleavy & dede 2014; cheng and tsai 2013; wu et al 2013 --> These are example affordances that can be used with AR to align instructional material with classroom learning goals such as allowing students to work together in pairs or small groups with a shared virtual object projected into their normal classroom space. <!--#  sentence needs work to connect it back to an example of aligning the affordances of AR to a realworld classroom context -->
+The next generation of advanced technologies for learning include many different kinds of virtual reality (VR) and augmented reality (AR) and mixed reality (MR) applications. These related technologies have different affordances for educational purposes, but at their core they all allow for increased immersion into novel topics and concepts and new ways for students to interact with three-dimensional objects and places.Due to the ubiquitous nature of computing, AR  has increasingly become more affordable compared to other immersive digital environments like VR . Additionally, AR has shown the potential to enable individuals construct new understanding by laying digital displays over real-world environments[@yoonHowAugmentedReality2020]. By doing that , these AR experiences can help users inquire and explore aspects of a virtual world in more concrete ways that might not be possible in a naturalistic setting [@yoonHowAugmentedReality2020]. AR technologies are only recently starting to become more mainstream as technology becomes more affordable and more research is done into the affordances of AR within education. These affordances may include: scientific spatial ability(manipulating objects and content in a 3D space); engaging in scientific inquiry through the use of observations, questions, group collaboration, investigations and interpreting data; increased concpetual understanding of abstract concepts and invisible phenomena. <!--# need to cite dunleavy & dede 2014; cheng and tsai 2013; wu et al 2013 --> These are example affordances that can be used with AR to align instructional material with classroom learning goals such as allowing students to work together in pairs or small groups with a shared virtual object projected into their normal classroom space. <!--#  sentence needs work to connect it back to an example of aligning the affordances of AR to a realworld classroom context -->
 
-<del>At the same time, the Framework for K-12 Science Education (NRC, 2012) and the resulting Next Generation Science Standards are asking teachers and students to integrate crosscutting concepts and science practices into their instruction. From research on early implementations of NGSS-aligned curricula, we know that the crosscutting concepts in general and issues surrounding scale in particular, are difficult concepts for teachers to integrate into their lessons and for students to understand using traditional materials (e.g., Harris et al., 2015). The crosscutting concept *Scale, Proportion, and Quantity* sits at the intersection of a traditionally difficult concept to teach with high overlap of the affordances of AR technologies (allowing for multiple perspectives of a virtual object, being able to superimpose a virtual object into a physical space). This pilot project will explore ways in which we can design and support AR experiences for middle school students that will engage them in the crosscutting concept of scale across different domain areas.</del>
-
-Immersive digital environments have the potential to scaffold experiential learning activities that are often impractical or impossible to implement in a classroom setting (cite- lai et al 2020). Due to the ubiquitous nature of computing, AR(XR?)  has increasingly become more affordable compared to other immersive digital environments using virtual reality and other modalities.  (XR) In science education,  AR provides rich opportunities to motivate students by utilizing physical and digital objects that can create novel learning experiences for students.  AR also provides opportunities for distance learning in classrooms, which can reduce chances of students missing out on collaborative learning environments. In Dunleavy et al, 2009, researchers studied student interactions in Alien Contact! That combined physical and digital artifacts through the use of a handheld device, which can require students when interacting with these objects to inquire about mathematics, literacy and science understanding. This would be an example of an  affordance that can foster engagement with instructional content and a physical space.  Augmented reality presents several unique affordances when compared to similar technologies, such as: accessibility, affordability and ease of transport when compared to other mixed-reality devices.  Due to the ubiquity of computing and mobile devices and  growing advancements in devices that utilize GPS, WIFI, Lidar  and multimedia can all be leveraged towards educational technology that can enhance learning( Heinecke et al.,  2001). Because of this, it is becoming increasingly more affordable for institutions to implement AR technology in the classroom, without the need of expensive equipment.
+In science education specifically, AR provides rich opportunities to motivate students by utilizing physical and digital objects that can create novel learning experiences for students. AR also provides opportunities for distance learning in classrooms, which can reduce chances of students missing out on collaborative learning environments. In [@dunleavyAffordancesLimitationsImmersive2009], researchers studied student interactions in Alien Contact!. This project combined physical and digital artifacts through the use of a handheld device, which required students to interact with these digital objects to inquire about mathematics, literacy and science understanding. Dunleavy 2009, is a good example of leveraging AR affordances to foster science understanding & engagement with instructional content in a shared virtual/physical space.  
 
 ### Scale
 
-Scale, proportion & quantity is an important area in science & engineering that is fundamental to how students make observations and relationships in nature. Its critical for students to be able to distinguiqsh relative differences in size, time and energy scales and the ability to understand the proportional relationships in those quantities as the scales begin to change. This is just one example in science education of a cross cutting concept that educators and learners have struggles with in the classroom.
+Scale, proportion & quantity is an important area in science & engineering that is fundamental to how students make observations and relationships in nature. Its critical for students to be able to distinguiqsh relative differences in size, time and energy scales and the ability to understand the proportional relationships in those quantities as the scales begin to change. This is just one example in science education of a cross cutting concept that educators and learners have struggles with in the classroom. Crosscutting concepts(CCC's) are important for students to make connections across domains and situations while also connecting the content to their prior experiences which can provide deeper engagement within the learning material. Previous research on CCC's has looked at difficulties instructors face with integrating coursework that is well aligned with the curriculum and any difficulties students face in understanding science concepts with traditional materials <!--# cite harris et al 2015 & Hogan 2015)  -->.
 
-In science education, scale is important across domains such as astronomy and chemistry, where it is important to understand relative sizes and distances of observable and non observable artifacts.An example of this could be introducing an AR environment to  help students with seeing and understanding scale in different ways than can be traditionally  observed in a classroom environment.  The artifacts under investigation can be manipulated in different ways, including size and scale, allowing different viewpoints by walking around a virtual artifact and comparing it with real objects. 
+In science education, scale is important across domains such as astronomy and chemistry, where it is important to understand relative sizes and distances of observable and non observable artifacts. An example of this could be introducing an AR environment to  help students with seeing and understanding scale in different ways than can be traditionally  observed in a classroom environment.  The artifacts under investigation can be manipulated in different ways, including size and scale, allowing different viewpoints by walking around a virtual artifact and comparing it with real objects. 
 
 <del>Current literature on scale understanding is focusing on VR simulations to help students navigate inaccurate understandings about size and scale. In science education, scale is important across domains such as astronomy and chemistry, where it is important to understand the relative sizes and distances of observable and non-observable artifacts at the extremes of scale.</del>
 
@@ -53,15 +52,15 @@ Another limitation of AR technology in the classroom is practicality. There are 
 
 In extant literature, educational researchers have been creating inclusive field trips using augmented or virtual reality (Gilley et al., 2015). In a study with environmental science, Kamarainen and colleagues integrated AR technology water measurement equipment (using the Texas Instrument Nspire) and the FreshAiR augmented reality mobile application. The project "EcoMOBILE", students utilize their mobile device and water measurement device to collect water samples during a field trip. In this mixed-methods research design, researchers assessed students' self-efficacy on their ecological science knowledge, and tasks they completed during the field trip. Results from their study found that students showed an increased ability in understanding of how to complete science related tasks & understanding focal topics (Kamarainen et al., 2013). By combining AR technology with scientific measuring equipment and creating meaningful activities, students are provided with meaningful context in a field trip experience (Kamarainen et al., 2013).
 
+\[\@yoon2014\]
+
 <!--# Need to add susan yoon stuff & other informal learning things in museums -->
 
-### Embodied Cognition
+### Problem space
 
-### Existing Methods for AR in science education
+This project explores ways in which we can design and support AR science experiences for middle school learners that will engage them in the cross cutting concept of scale across different domains.
 
-### Problem Space
-
-###  Research Design/Plan
+### Research Design/Plan
 
 This research proposal aims to design and support AR collaborative learning experiences for middle-school students that engages them in the crosscutting concept of scale across different science domains. This project will employ a design-based research approach (dbr cite), which includes an iterative cycle of design, development, testing and refinement with input from instructors and students. Researchers and instructors will also iterate on supportive materials for teachers to best foster science discussion in the classroom using our learning technology (AR science activity).
 
@@ -119,7 +118,7 @@ In conjunction with this we will begin development of our AR app with, with the 
 
 #### Fall 2023- Iterate & revisions & testing again
 
-#### Spring 2024 - Writing thisup
+#### Spring 2024 - Writing this up
 
 ## Methods
 
@@ -127,18 +126,22 @@ In conjunction with this we will begin development of our AR app with, with the 
 
 In these activities students will be learning about scale in a variety of different contexts around the concept of size and scale (possibly maps and models) to help conceptualize relationships between objkects and phenomena in a naturalistic setting. They will be learning about the relative differences in sizes of bjects relating to planets & stars, and the size of atoms and molecules.
 
-These activities will be two collaborative sessions spanning 30 minutes each in an after school lab sessions at CRC(our lab). In this activity students will collaboratively create scale models and be introduced to science simulations. In the first activity, students will be introduced to planets within our solar system (8?) within an AR environment (mobile tablet with AR app) where students will be able to explore different planets and distances
+These activities will be two collaborative sessions spanning 30 minutes each in an after school lab sessions at CRC(our lab). In this activity students will collaboratively create scale models and be introduced to science simulations. In the first activity, students will be introduced to planets within our solar system (8?) within an AR environment (mobile tablet with AR app) where students will be able to explore different planets and planetary distances. Students will be working in pairs or small groups and given a mobile device with the AR app installed. In small groups students will explore the solar system, focusing on the scale of the planets(relative size differences between them) and the distances between these objects within our solar system. Students will be able to use gestures to compare these relative sizes while also creating shared annotations about their observations and questions they might have about the planets in this activity (such as the diameter of the moon compared to the earth and how they might visualize/interpret this). These gestures include options to observe the objects from different viewpoints and location, while also allowing them to measure distances between planets <!--# this can lead toa discussion about shapes of planents and types of orbit (such as earth having a circular orbit and the other types of orbits)  -->. <!--# not sure if i want to touch time scales or a time scrubber just yet  -->Students will also have addtional physical artifacts that can be overlayed in the app to make further comparisons of objects at different scales(macroscopic, microscopic and molecular scale) to better observe an otherwise invisible phenomena <!--# need to work on this sentence  -->
+
+Second activity:
+
+In this activity students will be exploring simple and complex molecules and their structures (creating models of structures) to better understand molecular scale .
 
 Scale models:\
 Science Simulations:
 
 ### Example Activities
 
-| Activity/Task | Task Instruction | Col3 |
-|---------------|------------------|------|
-|               |                  |      |
-|               |                  |      |
-|               |                  |      |
+| Activity/Task | Task Instruction | Objects |
+|---------------|------------------|---------|
+|               |                  |         |
+|               |                  |         |
+|               |                  |         |
 
 : Example AR Activities
 
