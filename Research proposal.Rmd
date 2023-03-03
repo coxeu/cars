@@ -12,7 +12,9 @@ This research proposal aims to design and support AR collaborative learning expe
 
 As a secondary design principle, we will iterate on the design of this application using the Learning through Embodied Activity Framework (LEAF)\[\@danishLearningEmbodiedActivity2020\] to guide our science learning activity design. LEAF framework provides researchers educators tools for designing mixed reality learning experience, by looking at the roles of the student, teacher and collective groups within the activity itself. This framework will help us create activities that better grounds an embodied activity in the requisite learning goals for instructors and learners, while also highlighting different dimensions of an embodied activity (eg., individual and collective experiences for students and instructors).
 
-<!--# This could use some work -->Aligning to the below NGSS performance expectations will increase the likelihood that teachers will eventually be able to easily integrate the activities into their normal curricular materials and plans.
+<!--# This could use some work -->
+
+Aligning to the below NGSS performance expectations will increase the likelihood that teachers will eventually be able to easily integrate the activities into their normal curricular materials and plans.
 
 NGSS Scale performance Expectations:
 
@@ -52,7 +54,7 @@ This research proposal will develop a set of AR science activities around the co
 
 ### Timeline
 
-#### Spring 2023  - Design
+#### Spring 2023 - Design
 
 Begin the development of two AR-based collaborative science activities which will take place during summer 2023 with middle-school learners. We will begin early iterations of lessons plans for instructors on how to integrate the activity into their curriculum.
 
@@ -62,7 +64,7 @@ In conjunction with this we will begin development of our AR app with, with the 
 
 #### Fall 2023- Iterate & revisions & testing again
 
-#### Spring 2024 - Writing thisup 
+#### Spring 2024 - Writing thisup
 
 ## Methods
 
@@ -96,7 +98,7 @@ We will be creating lesson plans...
 
 ## Design Guidelines
 
-### Design for a collective AR activity of a collective phenomena  + DBR 
+### Design for a collective AR activity of a collective phenomena + DBR
 
 at least three sessions?\
 \## DBR

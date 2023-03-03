@@ -4,52 +4,64 @@ format: html
 editor: visual
 ---
 
-## Literature on AR/Scale
+## Literature 
 
 ### AR
 
 Immersive digital environments have the potential to scaffold experiential learning activities that are often impractical or impossible to implement in a classroom setting (cite- lai et al 2020). Due to the ubiquitous nature of computing, AR(XR?)  has increasingly become more affordable compared to other immersive digital environments using virtual reality and other modalities.  (XR) In science education,  AR provides rich opportunities to motivate students by utilizing physical and digital objects that can create novel learning experiences for students.  AR also provides opportunities for distance learning in classrooms, which can reduce chances of students missing out on collaborative learning environments. In Dunleavy et al, 2009, researchers studied student interactions in Alien Contact! That combined physical and digital artifacts through the use of a handheld device, which can require students when interacting with these objects to inquire about mathematics, literacy and science understanding. This would be an example of an  affordance that can foster engagement with instructional content and a physical space.  Augmented reality presents several unique affordances when compared to similar technologies, such as: accessibility, affordability and ease of transport when compared to other mixed-reality devices.  Due to the ubiquity of computing and mobile devices and  growing advancements in devices that utilize GPS, WIFI, Lidar  and multimedia can all be leveraged towards educational technology that can enhance learning( Heinecke et al.,  2001). Because of this, it is becoming increasingly more affordable for institutions to implement AR technology in the classroom, without the need of expensive equipment.
 
-### Affordances of AR in Education
+### Scale
 
 Scale, proportion & quantity is an important area in science & engineering that is fundamental to how students make observations and relationships in nature. Its critical for students to be able to distinguiqsh relative differences in size, time and energy scales and the ability to understand the proportional relationships in those quantities as the scales begin to change. This is just one example in science education of a cross cutting concept that educators and learners have struggles with in the classroom.
 
 In science education, scale is important across domains such as astronomy and chemistry, where it is important to understand relative sizes and distances of observable and non observable artifacts.An example of this could be introducing an AR environment to  help students with seeing and understanding scale in different ways than can be traditionally  observed in a classroom environment.  The artifacts under investigation can be manipulated in different ways, including size and scale, allowing different viewpoints by walking around a virtual artifact and comparing it with real objects. 
 
+<del>Current literature on scale understanding is focusing on VR simulations to help students navigate inaccurate understandings about size and scale. In science education, scale is important across domains such as astronomy and chemistry, where it is important to understand the relative sizes and distances of observable and non-observable artifacts at the extremes of scale. </del>
+
 ### Scale is hard to teach/learn
 
-The cross cutting concept(CCC\'s) of scale, proportion and quantity is one of several  CCC\'s that is part of the new vision for k-12 science education (NRC, 2012). Scale is defined as  \"a system of measurement that allows for the comparison of relative sizes\"  (Delgado et al ., 2007) these systems of measurement can include weight, time, temperature and other variables that can be assessed and estimated. In STEAM, understanding the concept of scale **is crucial to understanding relationships**.  Scale is particularly important in science disciplines such as astronomy, where spatial scale is important for students to understand the relative sizes, volumes, and distances of objects in the solar system and beyond. Scale is also important across the disciplines of geology (eg., geological time scales) and chemistry (eg., molecular and atomic scales) all have substantive concepts that involve issues at the extremes of scale 
+The cross cutting concept(CCC's) of scale, proportion and quantity is one of several  CCC's that is part of the new vision for k-12 science education (NRC, 2012). Scale is defined as  "a system of measurement that allows for the comparison of relative sizes" (Delgado et al ., 2007) these systems of measurement can include weight, time, temperature and other variables that can be assessed and estimated. Existing
 
-### AR and Collaborative Learning 
+In STEAM, understanding the concept of scale **is crucial to understanding relationships**.  Scale is particularly important in science disciplines such as astronomy, where spatial scale is important for students to understand the relative sizes, volumes, and distances of objects in the solar system and beyond. Scale is also important across the disciplines of geology (eg., geological time scales) and chemistry (eg., molecular and atomic scales) all have substantive concepts that involve issues at the extremes of scale 
+
+While accurate measurement when quantifying known phenomena is highly important in the sciences, students have issues understanding scale (Jones et al., 2017)across different scientific domains. For my research, I am focused on students' understanding of the extremes of scale. Jones et al (2017) highlighted that students' ability to conceive of scale is limited by their age, education, and maturity(difficulties with objects beyond human scale).
+
+When the context of scale is applied to the size of objects, young learners struggle to comprehend objects beyond the human scale (their own body) but can improve as they get older. For objects larger than human scale, young learners' conceptual ideas of objects "larger than them" can be the size of a school bus or minivan (Jones et al., 2017). As students get older (ie., high school students), their conceptual benchmark of larger units grows to larger objects like shopping malls or a football field (Ibid.) In the other direction, young learners have a very broad understanding of smaller objects ---- an ant or a fly might be the smallest thing they can conceptualize; older students can conceptualize objects at the microscopic level like blood cells or complex molecules (Tretter et al., 2006). For students to conceptualize scale they need a deeper understanding of the relative sizes of objects and entities at the extremes (bigger or smaller) which can be leveraged using the existing affordances of AR (eg., limited immersion) embodied learning activities within an AR simulation.
+
+### AR and Collaborative Learning
 
 Collaborative learning research..
 
-I would  describe collaborative learning as an educational approach that involves effort among teachers and students that encourages them to complete tasks together.Building on Vygotsky\'s sociocultural theories that learning takes place through interactions and communication with others, and the importances of social environments  in the learning process. In research, collaborative learning is categorized as \" A instructional use of small groups for students to work together to maximize learning\" (Johnson et al., 1990)   Collaborative learning is accomplished through students working in groups while trying to mutually understand solutions, meanings or creating artifacts(Lin 2015). In contrast, individual learning is the more traditional learning that has occurred in classrooms throughout history, where classroom content, instructional content and learning pace are entirely based on a students ability and interest to increase knowledge. 
+I would  describe collaborative learning as an educational approach that involves effort among teachers and students that encourages them to complete tasks together.Building on Vygotsky's sociocultural theories that learning takes place through interactions and communication with others, and the importances of social environments  in the learning process. In research, collaborative learning is categorized as " A instructional use of small groups for students to work together to maximize learning" (Johnson et al., 1990)   Collaborative learning is accomplished through students working in groups while trying to mutually understand solutions, meanings or creating artifacts(Lin 2015). In contrast, individual learning is the more traditional learning that has occurred in classrooms throughout history, where classroom content, instructional content and learning pace are entirely based on a students ability and interest to increase knowledge. 
 
-There are significant differences between collaborative and individual learning.  Collaborative learning requires students  and teachers to partake in social interactions, transferring of ideas and intergroup dynamics, which can be more advantageous over individual learning.  An example of this is Problem-based learning(PBL), a form of collaborative learning that utilizes  a student-centered approach so students can learn and interact in groups about a subject and solve complex open-ended problems. PBL is  commonly used in teaching medical students how to solve problems in a clinical setting, but is often being implemented in K-12 Education to help instructors facilitate student problem-solving and self-directed learning skills(Barrows & Kelson 1993).  PBL highlights a distinct difference between individual learning and collaboration, which is the role of the teacher. In problem-based learning teachers are often facilitating and fostering discussions in the classroom, as opposed to simply lecturing and assigning individual tasks for students. PBL, which is based on situated learning  is based on the idea that learning is effective when it is ingrained in learning that is anchored in everyday context(Hung et al ., 2008)	
+There are significant differences between collaborative and individual learning.  Collaborative learning requires students  and teachers to partake in social interactions, transferring of ideas and intergroup dynamics, which can be more advantageous over individual learning.  An example of this is Problem-based learning(PBL), a form of collaborative learning that utilizes  a student-centered approach so students can learn and interact in groups about a subject and solve complex open-ended problems. PBL is  commonly used in teaching medical students how to solve problems in a clinical setting, but is often being implemented in K-12 Education to help instructors facilitate student problem-solving and self-directed learning skills(Barrows & Kelson 1993).  PBL highlights a distinct difference between individual learning and collaboration, which is the role of the teacher. In problem-based learning teachers are often facilitating and fostering discussions in the classroom, as opposed to simply lecturing and assigning individual tasks for students. PBL, which is based on situated learning  is based on the idea that learning is effective when it is ingrained in learning that is anchored in everyday context(Hung et al ., 2008)
 
 Augmented reality can be helpful in supporting collaborative learning, through the creation of immersive hybrid learning environments that combine real and virtual objects. As a result, AR can help facilitate problem solving, critical thinking and communication through collaborative learning activities. Within an educational context, AR can help support collaborative learning by allowing students to simulate training medical students(Hanna et al., 2018), or by allowing students to understand abstract science concepts like molecular structures(Bonete et al ., 2019).Augmented reality can help facilitate a community of learners by  integrating positive interdependent learning by giving students different or incomplete data that require group collaboration to solve a problem(Squire & Kloper, 2007). Integrating AR within the course curriculum can help science understanding, by allowing instructors to better  specific science phenomena, and allow students to interact with physical objects that can display contextual information, and allow students to manipulate objects in a 3-dimensional space. 
 
 Instructors face several challenges when implementing AR technology in collaborative spaces. As previously mentioned, instructors cannot simply adopt technology in the classroom without additional support and training.  Successfully implementing AR technology in the classroom requires a knowledgeable instructor to properly introduce and facilitate these collaborative explorations, which may require multiple facilitators  if technical errors may occur. There is a need to create teacher materials to support implementing technology in the classroom while also finding ways to integrate other parts of the curriculum that the teacher is already using. With the goal of using AR as an effective learning tool in the classroom, there is a need to scaffold student exploration and 3-d object manipulation that is  based on clear parameters so that learning goals can be achieved in a short period of time. In addition to the creation of learning materials for teachers, there is a need for designers and educators to be less focused on what students are seeing in the application and more about the manipulations the students are doing within the application and how the students have learned from it. 
 
-There are also practical and logistical challenges of implementing AR technology in the classroom, depending on the type of AR hardware being used, which can be cost prohibitive for schools to implement, manage and debug issues, which can pile increasing demands on teachers and administrators.  In regards to student learning, there are challenges relating to cognitive overload (Dunleavy et al., 2009) where students can feel overwhelmed if constructed environments and exercises are too complex. Managing the level of complexity for learners is a challenge that requires researchers to create a simple and dynamic learning experience; ability to scaffold experiences and limiting AR interactions by students(Squire & Kloper, 2007; O\'shea et a., 2009).  
+There are also practical and logistical challenges of implementing AR technology in the classroom, depending on the type of AR hardware being used, which can be cost prohibitive for schools to implement, manage and debug issues, which can pile increasing demands on teachers and administrators.  In regards to student learning, there are challenges relating to cognitive overload (Dunleavy et al., 2009) where students can feel overwhelmed if constructed environments and exercises are too complex. Managing the level of complexity for learners is a challenge that requires researchers to create a simple and dynamic learning experience; ability to scaffold experiences and limiting AR interactions by students(Squire & Kloper, 2007; O'shea et a., 2009).  
 
 Another limitation of AR technology in the classroom is practicality. There are challenges in integration and managing this technology for researchers & instructors, but there are also institutional challenges.  AR technology is often best applied in student joint exploration, inquiry-based activities and informal learning, which can be different from standards-driven context of school systems. AR collaborative learning environments are time consuming and can be difficult to manage, and may often transfer to achievement or assessment testing metrics. 
 
 \
 \## Current space of science education within AR for k-12 learners
 
-In extant literature, educational researchers have been creating inclusive field trips using augmented or virtual reality (Gilley et al., 2015). In a study with environmental science, Kamarainen and colleagues integrated AR technology water measurement equipment (using the Texas Instrument Nspire) and the FreshAiR augmented reality mobile application. The project \"EcoMOBILE\", students utilize their mobile device and water measurement device to collect water samples during a field trip. In this mixed-methods research design, researchers assessed students\' self-efficacy on their ecological science knowledge, and tasks they completed during the field trip. Results from their study found that students showed an increased ability in understanding of how to complete science related tasks & understanding focal topics (Kamarainen et al., 2013). By combining AR technology with scientific measuring equipment and creating meaningful activities, students are provided with meaningful context in a field trip experience (Kamarainen et al., 2013).
+In extant literature, educational researchers have been creating inclusive field trips using augmented or virtual reality (Gilley et al., 2015). In a study with environmental science, Kamarainen and colleagues integrated AR technology water measurement equipment (using the Texas Instrument Nspire) and the FreshAiR augmented reality mobile application. The project "EcoMOBILE", students utilize their mobile device and water measurement device to collect water samples during a field trip. In this mixed-methods research design, researchers assessed students' self-efficacy on their ecological science knowledge, and tasks they completed during the field trip. Results from their study found that students showed an increased ability in understanding of how to complete science related tasks & understanding focal topics (Kamarainen et al., 2013). By combining AR technology with scientific measuring equipment and creating meaningful activities, students are provided with meaningful context in a field trip experience (Kamarainen et al., 2013).
 
-<!--# Need to add susan yoon stuff & other informal learning things in museums -->\
+<!--# Need to add susan yoon stuff & other informal learning things in museums -->
 
-### Existing Methods for AR in science education 
+### Embodied Cognition 
+
+###  
+
+### Existing Methods for AR in science education
 
 ### Problem Space
 
 The next generation of advanced technologies for learning include many different kinds of virtual reality (VR) and augmented reality (AR) and mixed reality (MR) applications. These related technologies have different affordances for educational purposes, but at their core they all allow for increased immersion into novel topics and concepts and new ways for students to interact with three-dimensional objects and places. VR technologies came along first and have shown some promise in being used effectively in learning situations (Dede, 2009), but many of the affordances of VR (full immersion and presence in a virtual space) make it more difficult to use in classroom settings or with younger children. AR technologies are only recently starting to become more mainstream and may have a set of affordances that are more aligned with classroom learning goals, such as allowing students to work together in pairs or small groups with a shared virtual object projected into their normal classroom space.
 
-At the same time, the Framework for K-12 Science Education (NRC, 2012) and the resulting Next Generation Science Standards are asking teachers and students to integrate crosscutting concepts and science practices into their instruction. From research on early implementations of NGSS-aligned curricula, we know that the crosscutting concepts in general and issues surrounding scale in particular, are difficult concepts for teachers to integrate into their lessons and for students to understand using traditional materials (e.g., Harris et al., 2015). The crosscutting concept *Scale, Proportion, and Quantity* sits at the intersection of a traditionally difficult concept to teach with high overlap of the affordances of AR technologies (allowing for multiple perspectives of a virtual object, being able to superimpose a virtual object into a physical space). This pilot project will explore ways in which we can design and support AR experiences for middle school students that will engage them in the crosscutting concept of scale across different domain areas.
+<del>At the same time, the Framework for K-12 Science Education (NRC, 2012) and the resulting Next Generation Science Standards are asking teachers and students to integrate crosscutting concepts and science practices into their instruction. From research on early implementations of NGSS-aligned curricula, we know that the crosscutting concepts in general and issues surrounding scale in particular, are difficult concepts for teachers to integrate into their lessons and for students to understand using traditional materials (e.g., Harris et al., 2015). The crosscutting concept *Scale, Proportion, and Quantity* sits at the intersection of a traditionally difficult concept to teach with high overlap of the affordances of AR technologies (allowing for multiple perspectives of a virtual object, being able to superimpose a virtual object into a physical space). This pilot project will explore ways in which we can design and support AR experiences for middle school students that will engage them in the crosscutting concept of scale across different domain areas.</del>
 
 ### 
 
@@ -60,7 +72,9 @@ This research proposal aims to design and support AR collaborative learning expe
 
 As a secondary design principle, we will iterate on the design of this application using the Learning through Embodied Activity Framework (LEAF)\[\@danishLearningEmbodiedActivity2020\] to guide our science learning activity design. LEAF framework provides researchers educators tools for designing mixed reality learning experience, by looking at the roles of the student, teacher and collective groups within the activity itself. This framework will help us create activities that better grounds an embodied activity in the requisite learning goals for instructors and learners, while also highlighting different dimensions of an embodied activity (eg., individual and collective experiences for students and instructors).
 
-<!--# This could use some work -->Aligning to the below NGSS performance expectations will increase the likelihood that teachers will eventually be able to easily integrate the activities into their normal curricular materials and plans.
+<!--# This could use some work -->
+
+Aligning to the below NGSS performance expectations will increase the likelihood that teachers will eventually be able to easily integrate the activities into their normal curricular materials and plans.
 
 NGSS Scale performance Expectations:
 
@@ -100,7 +114,7 @@ This research proposal will develop a set of AR science activities around the co
 
 ### Timeline
 
-#### Spring 2023  - Design
+#### Spring 2023 - Design
 
 Begin the development of two AR-based collaborative science activities which will take place during summer 2023 with middle-school learners. We will begin early iterations of lessons plans for instructors on how to integrate the activity into their curriculum.
 
@@ -110,7 +124,7 @@ In conjunction with this we will begin development of our AR app with, with the 
 
 #### Fall 2023- Iterate & revisions & testing again
 
-#### Spring 2024 - Writing thisup 
+#### Spring 2024 - Writing thisup
 
 ## Methods
 
@@ -122,6 +136,16 @@ These activities will be two collaborative sessions spanning 30 minutes each in 
 
 Scale models:\
 Science Simulations:
+
+### Example Activities 
+
+| Activity/Task | Task Instruction | Col3 |
+|---------------|------------------|------|
+|               |                  |      |
+|               |                  |      |
+|               |                  |      |
+
+: Example AR Activities
 
 ### Data Collection
 
@@ -145,7 +169,7 @@ We will be creating lesson plans...
 
 ## Design Guidelines
 
-### Design for a collective AR activity of a collective phenomena  + DBR 
+### Design for a collective AR activity of a collective phenomena + DBR
 
 at least three sessions?\
 \## DBR
@@ -158,7 +182,7 @@ Whats going to happen with covid?
 Labels/Designs etc; annotations\
 Pre/post test
 
-### Things i've done in the past 
+### Things i've done in the past
 
 ### Things i need to do
 
@@ -178,7 +202,7 @@ Students will be able to (better?)? developmental models at the extremes of scal
 
 ### Dissemination plan
 
-## IRB 
+## IRB
 
 ### Recruitment
 
