@@ -4,11 +4,13 @@ format: html
 editor: visual
 ---
 
-## Literature 
+## Literature
 
 ### AR
 
 Immersive digital environments have the potential to scaffold experiential learning activities that are often impractical or impossible to implement in a classroom setting (cite- lai et al 2020). Due to the ubiquitous nature of computing, AR(XR?)  has increasingly become more affordable compared to other immersive digital environments using virtual reality and other modalities.  (XR) In science education,  AR provides rich opportunities to motivate students by utilizing physical and digital objects that can create novel learning experiences for students.  AR also provides opportunities for distance learning in classrooms, which can reduce chances of students missing out on collaborative learning environments. In Dunleavy et al, 2009, researchers studied student interactions in Alien Contact! That combined physical and digital artifacts through the use of a handheld device, which can require students when interacting with these objects to inquire about mathematics, literacy and science understanding. This would be an example of an  affordance that can foster engagement with instructional content and a physical space.  Augmented reality presents several unique affordances when compared to similar technologies, such as: accessibility, affordability and ease of transport when compared to other mixed-reality devices.  Due to the ubiquity of computing and mobile devices and  growing advancements in devices that utilize GPS, WIFI, Lidar  and multimedia can all be leveraged towards educational technology that can enhance learning( Heinecke et al.,  2001). Because of this, it is becoming increasingly more affordable for institutions to implement AR technology in the classroom, without the need of expensive equipment.
+
+### Scaffolding Science Learning 
 
 ### Scale
 
@@ -16,7 +18,7 @@ Scale, proportion & quantity is an important area in science & engineering that 
 
 In science education, scale is important across domains such as astronomy and chemistry, where it is important to understand relative sizes and distances of observable and non observable artifacts.An example of this could be introducing an AR environment to  help students with seeing and understanding scale in different ways than can be traditionally  observed in a classroom environment.  The artifacts under investigation can be manipulated in different ways, including size and scale, allowing different viewpoints by walking around a virtual artifact and comparing it with real objects. 
 
-<del>Current literature on scale understanding is focusing on VR simulations to help students navigate inaccurate understandings about size and scale. In science education, scale is important across domains such as astronomy and chemistry, where it is important to understand the relative sizes and distances of observable and non-observable artifacts at the extremes of scale. </del>
+<del>Current literature on scale understanding is focusing on VR simulations to help students navigate inaccurate understandings about size and scale. In science education, scale is important across domains such as astronomy and chemistry, where it is important to understand the relative sizes and distances of observable and non-observable artifacts at the extremes of scale.</del>
 
 ### Scale is hard to teach/learn
 
@@ -51,9 +53,7 @@ In extant literature, educational researchers have been creating inclusive field
 
 <!--# Need to add susan yoon stuff & other informal learning things in museums -->
 
-### Embodied Cognition 
-
-###  
+### Embodied Cognition
 
 ### Existing Methods for AR in science education
 
@@ -128,16 +128,16 @@ In conjunction with this we will begin development of our AR app with, with the 
 
 ## Methods
 
-### Procedure
+### Procedure 
 
 In these activities students will be learning about scale in a variety of different contexts around the concept of size and scale (possibly maps and models) to help conceptualize relationships between objkects and phenomena in a naturalistic setting. They will be learning about the relative differences in sizes of bjects relating to planets & stars, and the size of atoms and molecules.
 
-These activities will be two collaborative sessions spanning 30 minutes each in an after school lab sessions at CRC(our lab). In this activity students will collaboratively create scale models and be introduced to science simulations.
+These activities will be two collaborative sessions spanning 30 minutes each in an after school lab sessions at CRC(our lab). In this activity students will collaboratively create scale models and be introduced to science simulations. In the first activity, students will be introduced to planets within our solar system (8?) within an AR environment (mobile tablet with AR app) where students will be able to explore different planets and distances
 
 Scale models:\
 Science Simulations:
 
-### Example Activities 
+### Example Activities
 
 | Activity/Task | Task Instruction | Col3 |
 |---------------|------------------|------|
